@@ -23,7 +23,7 @@ Tyto csv soubory byly načteny přímo do Power BI pomocí Power Query. Pro kaž
 
 Rozdílná situace je v případě roku 2006, kdy neexistovala úvodní stránka, takže obsah byl scrapován upraveným kódem a vznikaly jednotlivé soubory. Z pohledu importu bylo toto zachováno.
 
-Soubor [strany.xlsx](https://github.com/TadeasBartos/class-engeto-pbix/blob/main/strany.xlsx) zajišťuje jednotnost pojmenování stran napříč roky. Meziroční párování názvů bylo provedeno manuálně.
+Soubor [strany.xlsx](https://github.com/TadeasBartos/class-engeto-pbix/blob/main/data/strany.xlsx) zajišťuje jednotnost pojmenování stran napříč roky. Meziroční párování názvů bylo provedeno manuálně.
 
 ### Dopočítané metriky
 
