@@ -9,6 +9,11 @@
 Tento projekt je součástí Engeto akademie.
 Cílem je zpracování reportu volebních výsledků tak, aby bylo možné mapovat výsledky v celém území, hledat trendy a hlavní konkurenční strany jak v celém území, tak jednotlivých městských obvodech.
 
+## Spuštění
+a) Lze provést stažení souboru [dashboard.pbix](https://github.com/TadeasBartos/class-engeto-pbix/blob/main/dashboard.pbix) a připojením dat z parciálních složek [data](https://github.com/TadeasBartos/class-engeto-pbix/tree/main/data).
+
+b) Stažením celého [projekt.zip](https://github.com/TadeasBartos/class-engeto-pbix/blob/main/projekt.zip) a rozbalení na svém úložišti.
+
 ## Vstupní data
 Vstupní data tvoří volně dostupná data ze stránky [volby.cz](https://www.volby.cz/).
 Jejich scrapování bylo předmětem řešení jednoho z předchozích úkolů - 
