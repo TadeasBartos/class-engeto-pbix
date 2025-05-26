@@ -15,6 +15,7 @@ Jejich scrapování bylo předmětem řešení jednoho z předchozích úkolů -
 [repo](https://github.com/TadeasBartos/class-engeto-python-web-scraper).
 
 Struktura vstupních dat byla následující: 
+
 code,location,registered,envelopes,valid,OBČANÉ.CZ,Věci veřejné,Konzervativní strana,Komunistická str.Čech a Moravy,Koruna Česká (monarch.strana),Česká strana národně sociální,Česká str.sociálně demokrat.,Strana Práv Občanů ZEMANOVCI,STOP,TOP 09,EVROPSKÝ STŘED,Křesť.demokr.unie-Čs.str.lid.,Volte Pr.Blok www.cibulka.net,Strana zelených,Suverenita-blok J.Bobošíkové,Humanistická strana,Česká pirátská strana,Dělnic.str.sociální spravedl.,Strana svobodných občanů,Občanská demokratická strana,Klíčové hnutí
 500054,Praha 1,24 178,16 869,16 752,37,1710,11,643,39,6,1954,370,5,5263,5,580,67,1265,198,18,120,72,157,4184,48
 
